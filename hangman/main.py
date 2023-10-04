@@ -4,7 +4,6 @@ from hangman_art import stages,logo
 
 print(logo)
 choosen_word = random.choice(word_list)
-print(choosen_word)
 
 display = []
 for i in range(len(choosen_word)):
