@@ -5,8 +5,6 @@ import random
 player_life = 1
 player_score = 0
 
-print(logo)
-
 #random number for list
 def list_number():
     random_number = random.randint(0,49)
